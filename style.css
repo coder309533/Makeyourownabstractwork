@@ -1,0 +1,32 @@
+body
+{
+	text-align: center;
+	
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: rgb(192, 221, 255);
+	border-radius: 20px;
+}
+
+#RC {
+	background-color: grey;
+	color:white;
+	border-radius:20px;
+	width:500px;
+
+}
+
+#MW {
+	background-color: grey;
+	color:white;
+	border-radius:20px;
+	width:500px;
+	
+
+}
